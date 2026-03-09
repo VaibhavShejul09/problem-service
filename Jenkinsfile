@@ -2,7 +2,7 @@
 
 microservicePipeline(
 
-serviceName : "problem-server",
+serviceName : "problem-service",
 dockerImage : "shejulv088/final_problem_service"
 
 )
